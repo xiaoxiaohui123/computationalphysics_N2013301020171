@@ -14,5 +14,5 @@
 + 作业L1 在屏幕上用字符拼出自己姓名的英文
 + 作业L2 在屏幕上用字符拼出任意次序的姓名
 + 作业L3 在80*80点阵上用字符拼出想画的东西
-+ [第三次作业](https://github.com/xiaoxiaohui123/computationalphysics_N2013301020171/blob/master/new%202.py)
++ 第三次作业[点击进入](https://github.com/xiaoxiaohui123/computationalphysics_N2013301020171/blob/master/new%202.py)
 + 4.第四次作业
