@@ -14,11 +14,11 @@
 + 作业L1 在屏幕上用字符拼出自己姓名的英文
 + 作业L2 在屏幕上用字符拼出任意次序的姓名
 + 作业L3 在80*80点阵上用字符拼出想画的东西
-+ 第三次作业[点击进入](https://github.com/xiaoxiaohui123/computationalphysics_N2013301020171/blob/master/new%202.py)
-+ 4.第四次作业[链接](https://www.zybuluo.com/xiaoxiaohui123/note/356349)
-+ 5.第五次作业[链接](https://www.zybuluo.com/xiaoxiaohui123/note/366220)
-+ 6.第六次作业[链接](https://www.zybuluo.com/xiaoxiaohui123/note/408093)
-+ 7.第七次作业[链接](https://www.zybuluo.com/xiaoxiaohui123/note/409195)
++ 3.[第三次作业](https://github.com/xiaoxiaohui123/computationalphysics_N2013301020171/blob/master/new%202.py)
++ 4.[第四次作业](https://www.zybuluo.com/xiaoxiaohui123/note/356349)
++ 5.[第五次作业](https://www.zybuluo.com/xiaoxiaohui123/note/366220)
++ 6.[第六次作业](https://www.zybuluo.com/xiaoxiaohui123/note/408093)
++ 7.[第七次作业](https://www.zybuluo.com/xiaoxiaohui123/note/409195)
 + 8.[第八次作业](https://www.zybuluo.com/xiaoxiaohui123/note/410497)
 + 9.[第九次作业](https://www.zybuluo.com/xiaoxiaohui123/note/411210)
 + 10.[第十次作业](https://www.zybuluo.com/xiaoxiaohui123/note/412207)
