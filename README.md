@@ -12,7 +12,7 @@
 + 12.[第十二次作业](https://www.zybuluo.com/xiaoxiaohui123/note/413405)
 + 13.[第十三次作业](https://www.zybuluo.com/xiaoxiaohui123/note/413408)
  ##第一二次作业
-+ 1.第一次作业**
++ 1.第一次作业
 + *安装linux系统*
 + *安装python 2.7运行环境（非linux环境请安装狂蟒之灾）*
 + *安装了狂蟒之灾*
