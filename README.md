@@ -10,6 +10,7 @@
 + 10.[第十次作业](https://www.zybuluo.com/xiaoxiaohui123/note/412207)
 + 11.[第十一次作业](https://www.zybuluo.com/xiaoxiaohui123/note/412352)
 + 12.[第十二次作业](https://www.zybuluo.com/xiaoxiaohui123/note/413405)
++ 13.[第十三次作业](https://www.zybuluo.com/xiaoxiaohui123/note/413408)
 + ##第一二次作业
 + 1.第一次作业**
 + *安装linux系统*
